@@ -1,0 +1,9 @@
+Bundle-Name: Liferay AI Creator OpenAI Web Fragment
+Bundle-SymbolicName: com.liferay.ai.creator.openai.web.fragment
+Bundle-Version: 1.0.0
+Fragment-Host: com.liferay.ai.creator.openai.web;bundle-version="[1.0.0,2.0.0)"
+Web-ContextPath: /ai-creator-openai-web
+Export-Package: \
+  com.liferay.ai.creator.openai.web.internal.client, \
+  com.liferay.ai.creator.openai.web.internal.exception
+-dsannotations-options: inherit

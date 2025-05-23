@@ -1,0 +1,5 @@
+dependencies {
+    compileOnly group: "com.liferay.portal", name: "release.dxp.api"
+    compileOnly group: "com.liferay", name: "com.liferay.ai.creator.openai.web"
+    compileOnly project(":modules:ai-creator-extension-openai-api")
+}
