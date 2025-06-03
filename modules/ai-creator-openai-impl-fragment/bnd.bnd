@@ -1,0 +1,8 @@
+Bundle-Name: Liferay AI Creator OpenAI Impl Fragment
+Bundle-SymbolicName: ai.creator.openai.impl.fragment
+Bundle-Version: 1.0.0
+Fragment-Host: com.liferay.ai.creator.openai.impl;bundle-version="[1.0.0,2.0.0)"
+
+Export-Package: \
+  com.liferay.ai.creator.openai.internal.configuration.manager, \
+  *

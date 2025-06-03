@@ -1,5 +1,0 @@
-Bundle-Name: Liferay AI Creator Extension OpenAI Web
-Bundle-SymbolicName: com.liferay.ai.creator.extension.web
-Bundle-Version: 1.0.0
-Web-ContextPath: /ai-creator-openai-web
--dsannotations-options: inherit

@@ -1,7 +1,0 @@
-Bundle-Name: Liferay AI Creator Extension OpenAI API
-Bundle-SymbolicName: com.liferay.ai.creator.extension.openai.api
-Bundle-Version: 1.0.0
-Export-Package: \
-  	com.liferay.ai.creator.extension.openai.configuration,\
-  	com.liferay.ai.creator.extension.openai.configuration.manager
--dsannotations-options: inherit

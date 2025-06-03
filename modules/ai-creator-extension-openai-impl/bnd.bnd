@@ -1,4 +1,0 @@
-Bundle-Name: Liferay AI Creator Extension OpenAI Implementation
-Bundle-SymbolicName: com.liferay.ai.creator.extension.openapi.impl
-Bundle-Version: 1.0.0
--dsannotations-options: inherit
