@@ -1,4 +1,0 @@
-dependencies {
-    compileOnly group: "com.liferay.portal", name: "release.dxp.api"
-    compileOnly project(":modules:ai-creator-extension-openai-api")
-}

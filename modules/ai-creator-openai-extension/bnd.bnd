@@ -1,0 +1,4 @@
+Bundle-Name: Liferay AI Creator OpenAI Model Extension
+Bundle-SymbolicName: com.liferay.ai.creator.openai.extension
+Bundle-Version: 1.0.0
+Export-Package: com.liferay.ai.creator.openai.extension.api
